@@ -1,3 +1,4 @@
+import graphics
 #Python Graphics Program
 
 # put your name here
@@ -9,6 +10,7 @@
 
 def main():
   #call the methods needed to draw the graphics
+  tkinter.mainloop()
   
   
 # What is the purpose of this definition?
