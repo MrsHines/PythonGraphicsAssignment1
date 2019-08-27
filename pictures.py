@@ -1,4 +1,3 @@
-import graphics
 #Python Graphics Program
 
 # put your name here
@@ -7,6 +6,8 @@ import graphics
 # YOU MAY ADD ADDITIONAL DEFINITIONS IF YOU NEED THEM FOR ORGANIZATION
 
 #import anything you need here
+import graphics
+import tkinter
 
 def main():
   #call the methods needed to draw the graphics
@@ -14,22 +15,22 @@ def main():
   
   
 # What is the purpose of this definition?
-def archery():
+#def archery():
   # write the archery code here
     
     
 
 # What is the purpose of this definition?
-def face():
+#def face():
   # write the face code here
     
 # What is the purpose of this definition?
-def winter():
+#def winter():
   # write the winter scene code . here
 
 
 # What is the purpose of this definition?
-def dice():
+#def dice():
   # write the dice code here
   
   
